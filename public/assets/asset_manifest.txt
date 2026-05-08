@@ -1,0 +1,26 @@
+# Portfolio Assets Directory
+
+This file lists all required media assets for the portfolio. Replace placeholders in the code with these file names once uploaded to an `/assets/` directory.
+
+## Images
+- `hero_smiling.jpg`: Body shot of smiling at a bot competition.
+- `hero_focused.jpg`: Photo looking down at the bot at the same competition.
+- `yoyo_group.jpg`: Professional group shot of four injection molded Walkman yo-yos.
+- `yoyo_detail.jpg`: Detail shot showing marbling or overmold features.
+- `nanomaterial_cad.jpg`: CAD of the architected unit cell.
+- `skateboard_poster.jpg`: Final poster for "The Effect of Bushing Tightness".
+- `skateboard_abstract.jpg`: Visual abstract for the skateboard research.
+- `array_pcb.jpg`: Photo of the assembled phased array PCB.
+- `array_kicad.png`: Screenshot of the KiCad design.
+- `chassis_cad.png`: CAD screenshot of the piezoelectric sensor chassis.
+- `bode_plot_sliders.png`: Simulation output with UI sliders in view.
+- `painting_game_handles.jpg`: Detail shot of 3D printed ergonomic handles.
+
+## Videos / Animations
+- `nanomaterial_compression.mp4`: Microscope MP4 of tesselated nanomaterial compressing.
+- `suspension_demo.mp4`: Demo of the swarm robot suspension system.
+- `painting_game_play.mp4`: Multiple viewpoints of Chromatic Clash being played.
+
+## Documents
+- `resume.pdf`: Professional engineering resume.
+- `skateboard_paper.pdf`: Full 2-column academic paper on skateboard dynamics.
