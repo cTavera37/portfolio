@@ -36,7 +36,7 @@ const PROJECTS: Project[] = [
     title: "50+ Injection Molded Walkman Yo-Yos",
     skills: ["DFMA", "Process Characterization", "CAM", "Injection Molding"],
     description:
-      "Successfully scaled production of Sony Walkman-inspired functional yo-yos. Engineered complex overmolds for ergonomic texture and implemented press-fit tolerances that reliably passed 4ft drop testing. Optimized toolpaths via CNC and SLA for rapid iteration and custom marbling effects.",
+      "Successfully scaled production of Sony Walkman-inspired functional yo-yos. Engineered complex overmolds for a professionalsurface finish and implemented press-fit tolerances that reliably passed 4ft drop testing. Optimized toolpaths via CNC and SLA for rapid iteration and custom marbling effects.",
     image: "/assets/yoyo_group.jpg",
     category: "Design",
   },
@@ -81,10 +81,10 @@ const PROJECTS: Project[] = [
   },
   {
     id: "painting",
-    title: "Chromatic Clash: Ergonomic UI/UX",
+    title: "Chromatic Clash: Experimental UX Design",
     skills: ["UX Design", "Ergonomics", "3D Printing", "Laser Cutting"],
     description:
-      "Designed a collaborative-competitive painting experience focused on physical interaction. Developed custom 3D-printed handles optimized for long-form gameplay based on ergonomic principles and user testing loops.",
+      "Designed a collaborative-competitive painting experience focused on decoupled physical interaction. Developed custom 3D-printed handles optimized for long-form gameplay based on ergonomic principles and user testing loops.",
     image: "/assets/painting_game_handles.jpg",
     video: "/assets/painting_game_play.mp4",
     category: "Design",
