@@ -64,7 +64,7 @@ const PROJECTS: Project[] = [
       "Academic Communication",
     ],
     description:
-      "Individually conducted research identifying critical correlations between bushing tightness and the viscoelastic dampening of skateboard dynamics. Findings were published and presented at the 2026 MIT Sports Summit, providing new insights into equipment performance optimization.",
+      "Individually conducted research identifying critical correlations between bushing tightness and the viscoelastic dampening of skateboard dynamics. Findings were presented at the 2026 MIT Sports Summit, providing novel insights into equipment performance optimization.",
     image: "/assets/skateboard_poster.jpg",
     links: [{ label: "Read Paper", url: "/assets/skateboard_paper.pdf" }],
     category: "Research",
