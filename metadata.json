@@ -1,11 +1,13 @@
 {
   "name": "MIT Mechanical Engineer Portfolio",
-  "description": "Professional engineering and product design portfolio for an MIT Junior Mechanical Engineer.",
+  "description": "Professional engineering and product design portfolio for an MIT Senior Mechanical Engineer.",
   "requestFramePermissions": [],
   "majorCapabilities": [
+    "Industrial Design",
     "Product Design",
     "Mechanical Engineering",
     "SolidWorks & FEA",
+    "PCB Design",
     "DFMA & Manufacturing"
   ]
 }
