@@ -36,7 +36,7 @@ const PROJECTS: Project[] = [
     title: "50+ Injection Molded Walkman Yo-Yos",
     skills: ["DFMA", "Process Characterization", "CAM", "Injection Molding"],
     description:
-      "Successfully scaled production of Sony Walkman-inspired functional yo-yos. Engineered complex overmolds for a professionalsurface finish and implemented press-fit tolerances that reliably passed 4ft drop testing. Optimized toolpaths via CNC and SLA for rapid iteration and custom marbling effects.",
+      "Successfully scaled production of Sony Walkman-inspired functional yo-yos. Engineered complex overmolds for a professional surface finish and implemented press-fit tolerances that reliably passed 4ft drop testing. Optimized toolpaths via CNC and SLA for rapid iteration and custom marbling effects.",
     image: "/assets/yoyo_group.jpg",
     category: "Design",
   },
@@ -198,9 +198,9 @@ const Hero = () => {
             into Product Design
           </h1>
           <p className="text-secondary text-lg md:text-xl font-light mb-8">
-            Junior Mechanical Engineer at MIT focused on the intersection of
+            Senior Mechanical Engineer at MIT focused on the intersection of
             manufacturing scalability, rigorous research, and human-centered
-            design.
+            industrial design.
           </p>
           <div className="flex justify-center gap-4">
             <a
@@ -522,8 +522,8 @@ export default function App() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto mt-24 pt-8 border-t border-white/10 flex justify-between text-[10px] uppercase tracking-widest text-neutral-500">
-          <span>© 2026 MIT Mechanical Design Portfolio</span>
-          <span>Built for the Modern Engineer</span>
+          <span>MIT Mechanical and Industrial Design Portfolio</span>
+          <span></span>
         </div>
       </footer>
     </div>
